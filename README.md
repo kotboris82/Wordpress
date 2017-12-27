@@ -1,4 +1,6 @@
 # Wordpress
 hacks and tips
 
-Добавить пользователя через phpmyadmin
+add-user-phpmyadmin Добавить пользователя через phpmyadmin
+----
+
