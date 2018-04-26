@@ -1,0 +1,2 @@
+// Download file
+wget https://wordpress.org/latest.zip -OutFile wp.zip
